@@ -1,0 +1,17 @@
+{
+  "name": "mygulp",
+  "version": "1.0.0",
+  "description": "myapp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "require-dir": "^0.3.0"
+  }
+}
